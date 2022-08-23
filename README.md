@@ -1,2 +1,7 @@
-# cms
-A simple demo repository shows the basic git workflow
+# Starter web project
+
+## Introducation
+
+## Purpose
+
+## How TO Contribute
